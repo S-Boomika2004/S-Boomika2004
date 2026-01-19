@@ -1,4 +1,4 @@
-## Hi Boomika 👋
+![logo](https://github.com/S-Boomika2004/S-Boomika2004/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Boomika S</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
