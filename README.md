@@ -128,6 +128,23 @@ Pavai Arts and Science College for Women
 
 ---
 
+### Amazon Sales Dashboard (Power BI)
+
+- Developed an interactive Power BI dashboard to analyze Amazon sales data and monitor key metrics such as revenue, orders, and product performance.
+- Cleaned and transformed raw data using Power Query to ensure accurate analysis and structured data modeling.
+- Created DAX measures and calculated fields to evaluate sales trends, category performance, and customer purchasing patterns.
+- Designed multiple visualizations and slicers to allow users to explore data by category, region, and time for better business insights.
+
+---
+
+### COVID-19 Country-Wise Data Tracker using Python
+
+- Developed a COVID-19 Country-Wise Data Tracker using Python.
+- Used Pandas to load and process the COVID-19 dataset from a CSV file.
+- Built an interactive GUI using Tkinter to display country-wise statistics.
+- Visualized confirmed, deaths, recovered, and active cases using Matplotlib charts.
+---
+
 ### Loan Repayment Prediction System (R)
 
 - Developed a predictive system to assess loan repayment behavior.
