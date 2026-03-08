@@ -1,4 +1,4 @@
-![logo](https://github.com/S-Boomika2004/S-Boomika2004/blob/main/Github%20Banner.png)
+![logo](https://github.com/S-Boomika2004/S-Boomika2004/blob/main/GitHub%20Banner1.png)
 
 <h1 align="center">Hi 👋, I'm Boomika S</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/boomika-s-6696a5323/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boomika linkedin" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
@@ -143,6 +143,7 @@ Pavai Arts and Science College for Women
 - Used Pandas to load and process the COVID-19 dataset from a CSV file.
 - Built an interactive GUI using Tkinter to display country-wise statistics.
 - Visualized confirmed, deaths, recovered, and active cases using Matplotlib charts.
+
 ---
 
 ### Loan Repayment Prediction System (R)
